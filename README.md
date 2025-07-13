@@ -1,44 +1,68 @@
-### 👋 Hi, I'm Akmal Taufiqurrahman
+<h1 align="center">Hi, I'm Akmal Taufiqurrahman 👋</h1>
 
-I'm a 4th semester Informatics student at Universitas Pembangunan Nasional Veteran Jakarta, currently sharpening my skills in web development, with a focus on frontend and fullstack projects. I enjoy building clean, functional UIs and learning how to bridge design and backend logic.
-
----
-
-### 💻 Tech Stack
-
-- 🧱 Frontend: HTML, CSS, JavaScript, Tailwind CSS, React, Next.js
-- 🔧 Backend: Express.js (Node.js), PHP (basic)
-- 🧰 Tools: Git, GitHub, Figma, Postman, Vercel, Firebase
-- 🧪 Learning: API integration, performance optimization, accessibility, deployment
+<p align="center">
+  <em>Informatics Student • Frontend Developer • Lifelong Learner</em><br/>
+  <a href="https://portfolio-akmaaltaufiq.vercel.app">🌐 Portfolio Website</a> • 
+  <a href="https://www.linkedin.com/in/akmal-taufiqurrahman-686961285/">🔗 LinkedIn</a> • 
+  <a href="mailto:taufikakmal53@gmail.com">✉️ Email</a>
+</p>
 
 ---
 
-### 🚀 Recent Projects
+## 🚀 Tentang Saya
 
-- [Suitmedia Frontend Test](https://github.com/yourusername/suitmedia-frontend-test)  
-  *Parallax banner, sorting, pagination, API integration*
+Saya adalah mahasiswa S1 Informatika semester 5 di Universitas Pembangunan Nasional Veteran Jakarta (IPK: 3.89), dengan spesialisasi pada pengembangan web modern menggunakan **React.js**, **Next.js**, **Tailwind CSS**, dan integrasi **REST API**. 
 
-- [Jahitra Landing Page](https://github.com/yourusername/jahitra)  
-  *Responsive fashion tailor website built with HTML/CSS/JS*
-
-- [Phishing Email Detection](https://github.com/yourusername/phishing-detector-naive-bayes)  
-  *NLP-based Naive Bayes classifier for identifying phishing emails*
+Terbiasa membangun aplikasi frontend maupun fullstack, saya aktif mengerjakan berbagai proyek individu dan tim serta melakukan deployment menggunakan **Vercel** dan **Railway**. Saya juga memiliki minat mendalam pada _technical writing_, optimisasi performa web, dan pengembangan UI yang accessible dan responsif.
 
 ---
 
-### 🎯 Goals (2025)
+## 🧾 Proyek Pilihan
 
-- ✅ Complete Magang Berdampak 2025 as Frontend Developer  
-- 📚 Learn TypeScript, Zustand, testing (Jest/Vitest)  
-- 🌐 Launch personal portfolio site  
-- ✈️ Prepare for Ausbildung Germany (IT Track)
+### 🔐 [SecureNote Web](https://github.com/akmaaltaufiq/securenote-web)
+> Web app untuk mengirim pesan terenkripsi RSA-AES dengan pengelolaan kunci hybrid  
+Tech: React.js, Tailwind CSS, Flask, Node.js
+
+### 🛡️ [PhishDetect](https://phishdetect-web-production.up.railway.app/)
+> Sistem deteksi email phishing dengan Naive Bayes & NLP  
+Tech: HTML, JavaScript, Tailwind, Express.js
+
+### 🧁 [MSAI Bakeshop](https://msai-bakeshop.vercel.app/)
+> Website bisnis bakery dengan fitur bilingual dan UI ramah pengguna  
+Tech: HTML, JS, Tailwind CSS
+
+### 🧵 [Jahitra](https://jahitra.vercel.app/)
+> Website profil untuk usaha jahit keluarga berbasis HTML & JavaScript  
+Tech: HTML, CSS, JavaScript
+
+### 🤖 [PakarISPA.ID](https://github.com/Zaynorang/SistemPakarISPA.git)
+> Aplikasi Android sistem pakar ISPA berbasis Certainty Factor  
+Tech: Java, Android Studio
+
+### 🌡️ [IoT Monitoring System](https://github.com/Zaynorang/iot-sensor-monitoring)
+> Sistem monitoring suhu, kelembaban, dan gerakan dengan ESP8266 dan Grafana  
+Tech: ESP8266, DHT11, PIR, TimescaleDB
 
 ---
 
-### 📬 Reach Me
+## 🧠 Skillset
 
-- 📧 Email: akmaltaufiqurrahman01@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/akmaltaufiqurrahman](https://www.linkedin.com/in/akmaltaufiqurrahman)  
-- 🌍 Website (coming soon)
+- **Front-End**: React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
+- **Back-End**: Express.js, Flask, Node.js  
+- **Database**: PostgreSQL, MySQL, MongoDB (basic)  
+- **Tools**: Git, GitHub, Vercel, Railway  
+- **Design**: Figma, Canva, Photoshop  
+- **Testing**: Manual Testing, Debugging via Browser DevTools
 
-Thanks for visiting! Let's build something meaningful ✨
+---
+
+## 📫 Hubungi Saya
+
+- Email: [taufikakmal53@gmail.com](mailto:taufikakmal53@gmail.com)  
+- LinkedIn: [linkedin.com/in/akmal-taufiqurrahman-686961285](https://www.linkedin.com/in/akmal-taufiqurrahman-686961285/)
+- Website: [portfolio-akmaaltaufiq.vercel.app](https://portfolio-akmaaltaufiq.vercel.app/)
+
+---
+
+> “Mengubah ketertarikan terhadap teknologi menjadi solusi nyata yang berdampak.”  
+> — Akmal Taufiqurrahman
