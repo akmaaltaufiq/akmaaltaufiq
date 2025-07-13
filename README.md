@@ -28,6 +28,10 @@ Saya juga memiliki minat dalam **technical writing**, **performance optimization
 > Sistem deteksi email phishing dengan Naive Bayes & NLP  
 **Tech Stack**: HTML, JavaScript, Tailwind, Express.js
 
+### 💼 [Personal Portfolio Website](https://portfolio-akmaaltaufiq.vercel.app/)
+> Website portofolio pribadi yang menampilkan proyek, pengalaman, dan kontak. Dibangun dengan stack modern dan desain yang clean & responsif untuk merepresentasikan identitas profesional secara online.  
+**Tech Stack**: Next.js, React.js, Tailwind CSS, Framer Motion
+
 ### 🧁 [MSAI Bakeshop](https://msai-bakeshop.vercel.app/)
 > Website bisnis bakery dengan fitur bilingual dan UI ramah pengguna  
 **Tech Stack**: HTML, JS, Tailwind CSS
@@ -43,6 +47,7 @@ Saya juga memiliki minat dalam **technical writing**, **performance optimization
 ### 🌡️ [IoT Monitoring System](https://github.com/Zaynorang/iot-sensor-monitoring)
 > Sistem monitoring suhu, kelembaban, dan gerakan dengan ESP8266 dan Grafana  
 **Tech Stack**: ESP8266, DHT11, PIR, TimescaleDB
+
 
 ---
 
