@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akmal Taufiqurrahman 👋</h1>
 
 <p align="center">
-  <em>Informatics Student • Frontend Developer • Lifelong Learner</em><br/>
+  <em>Informatics Student • Fullstack Developer • Content Creator</em><br/>
   <a href="https://portfolio-akmaaltaufiq.vercel.app">🌐 Portfolio Website</a> • 
   <a href="https://www.linkedin.com/in/akmal-taufiqurrahman-686961285/">🔗 LinkedIn</a> • 
   <a href="mailto:taufikakmal53@gmail.com">✉️ Email</a>
