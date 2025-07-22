@@ -2,67 +2,81 @@
 
 <p align="center">
   <em>Informatics Student • Fullstack Developer • Content Creator</em><br/>
-  <a href="https://portfolio-akmaaltaufiq.vercel.app" target="_blank">🌐 Portfolio Website</a> • 
+  <a href="https://portfolio-akmaaltaufiq.vercel.app" target="_blank">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/akmal-taufiqurrahman-686961285/" target="_blank">🔗 LinkedIn</a> • 
   <a href="mailto:taufikakmal53@gmail.com">✉️ Email</a>
 </p>
 
----
-
-## 🚀 Tentang Saya
-
-Saya adalah mahasiswa S1 Informatika semester 5 di **Universitas Pembangunan Nasional Veteran Jakarta** (IPK: 3.89), dengan spesialisasi pada pengembangan web modern menggunakan **React.js**, **Next.js**, **Tailwind CSS**, dan integrasi **REST API**.  
-
-Terbiasa membangun aplikasi **frontend maupun fullstack**, saya aktif mengerjakan berbagai proyek individu dan tim serta melakukan deployment menggunakan **Vercel** dan **Railway**.  
-Saya juga memiliki minat dalam **technical writing**, **performance optimization**, dan pengembangan **UI yang responsif serta accessible**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akmaaltaufiq&color=blue&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/akmaaltaufiq?label=Follow&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
-## 🧾 Proyek Pilihan
+## 🚀 About Me
 
-### 🔐 [SecureNote Web](https://github.com/akmaaltaufiq/securenote-web)
-> Web app untuk mengirim pesan terenkripsi RSA-AES dengan pengelolaan kunci hybrid  
-**Tech Stack**: React.js, Tailwind CSS, Flask, Node.js
+🎓 I’m a 5th semester undergraduate student in **Informatics Engineering at UPN Veteran Jakarta** (GPA: 3.89)  
+💡 Focused on modern web development using **React.js**, **Next.js**, **Tailwind CSS**, and **REST API** integration  
+🛠️ Experienced in building both **frontend** and **fullstack** apps, deployed via **Vercel** and **Railway**  
+✍️ Passionate about **technical writing**, **performance optimization**, and building **responsive, accessible UI**
 
-### 🛡️ [PhishDetect](https://phishdetect-web-production.up.railway.app/)
-> Sistem deteksi email phishing dengan Naive Bayes & NLP  
-**Tech Stack**: HTML, JavaScript, Tailwind, Express.js
+---
 
-### 💼 [Personal Portfolio Website](https://portfolio-akmaaltaufiq.vercel.app/)
-> Website portofolio pribadi yang menampilkan proyek, pengalaman, dan kontak. Dibangun dengan stack modern dan desain yang clean & responsif untuk merepresentasikan identitas profesional secara online.  
-**Tech Stack**: Next.js, React.js, Tailwind CSS, Framer Motion
+## 🧩 Featured Projects
 
-### 🧁 [MSAI Bakeshop](https://msai-bakeshop.vercel.app/)
-> Website bisnis bakery dengan fitur bilingual dan UI ramah pengguna  
-**Tech Stack**: HTML, JS, Tailwind CSS
-
-### 🧵 [Jahitra](https://jahitra.vercel.app/)
-> Website profil untuk usaha jahit keluarga  
-**Tech Stack**: HTML, CSS, JavaScript
-
-### 🤖 [PakarISPA.ID](https://github.com/Zaynorang/SistemPakarISPA.git)
-> Aplikasi Android sistem pakar ISPA berbasis Certainty Factor  
-**Tech Stack**: Java, Android Studio
-
-### 🌡️ [IoT Monitoring System](https://github.com/Zaynorang/iot-sensor-monitoring)
-> Sistem monitoring suhu, kelembaban, dan gerakan dengan ESP8266 dan Grafana  
-**Tech Stack**: ESP8266, DHT11, PIR, TimescaleDB
-
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔐 [**SecureNote Web**](https://github.com/akmaaltaufiq/securenote-web) | A web app to send encrypted messages (RSA + AES) with hybrid key management | React.js, Flask, Node.js, Tailwind CSS |
+| 🛡️ [**PhishDetect**](https://phishdetect-web-production.up.railway.app/) | Email phishing detection system using Naive Bayes & NLP | Express.js, JS, Tailwind |
+| 💼 [**Personal Portfolio Website**](https://portfolio-akmaaltaufiq.vercel.app/) | A clean, responsive personal site to showcase my work and professional identity | Next.js, React.js, Tailwind, Framer Motion |
+| 🧁 [**MSAI Bakeshop**](https://msai-bakeshop.vercel.app/) | A bilingual bakery business website with user-friendly UI | HTML, JS, Tailwind CSS |
+| 🧵 [**Jahitra**](https://jahitra.vercel.app/) | A profile website for my family’s tailoring business | HTML, CSS, JS |
+| 🤖 [**PakarISPA.ID**](https://github.com/Zaynorang/SistemPakarISPA.git) | An Android expert system app for diagnosing ISPA using Certainty Factor | Java, Android Studio |
+| 🌡️ [**IoT Monitoring**](https://github.com/Zaynorang/iot-sensor-monitoring) | Monitors temperature, humidity & motion using ESP8266 & Grafana | ESP8266, DHT11, PIR, TimescaleDB |
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-- **Front-End**: React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Back-End**: Express.js, Flask, Node.js  
-- **Database**: PostgreSQL, MySQL, MongoDB *(basic)*  
-- **Tools**: Git, GitHub, Vercel, Railway  
-- **Design**: Figma, Canva, Photoshop  
-- **Testing**: Manual Testing, DevTools Debugging
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat-square)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square)
+
+### 🛠️ Tools & Deployment
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Railway](https://img.shields.io/badge/-Railway-2B2E4A?logo=railway&logoColor=white&style=flat-square)
+
+### 🎨 Design & Others
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat-square)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)
 
 ---
 
-## 📫 Hubungi Saya
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akmaaltaufiq&show_icons=true&theme=default&hide_border=true" alt="Akmal's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmaaltaufiq&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 📫 Get In Touch
 
 - 📧 Email: [taufikakmal53@gmail.com](mailto:taufikakmal53@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/akmal-taufiqurrahman-686961285](https://www.linkedin.com/in/akmal-taufiqurrahman-686961285/)  
@@ -70,5 +84,5 @@ Saya juga memiliki minat dalam **technical writing**, **performance optimization
 
 ---
 
-> “Mengubah ketertarikan terhadap teknologi menjadi solusi nyata yang berdampak.”  
-> — Akmal Taufiqurrahman
+> _“Transforming curiosity into real-world tech solutions that make an impact.”_  
+> — **Akmal Taufiqurrahman**
