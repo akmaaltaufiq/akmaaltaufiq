@@ -69,8 +69,6 @@
 
 ## 📊 GitHub Activity Overview
 
-## 📊 GitHub Activity Overview
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akmaaltaufiq&theme=github-compact&hide_title=true" alt="Contribution Graph" />
 </p>
@@ -79,7 +77,6 @@
   <img src="https://streak-stats.demolab.com/?user=akmaaltaufiq&theme=default&hide_border=true&ring=blue&fire=orange&currStreakLabel=blue" alt="GitHub Contribution Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akmaaltaufiq&theme=default" alt="Top Languages" />
 </p>
-
 
 ---
 
