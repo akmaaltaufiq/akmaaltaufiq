@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-🎓 I’m a 5th semester undergraduate student in **Informatics Engineering at UPN Veteran Jakarta** (GPA: 3.89)  
+🎓 I’m a 5th semester undergraduate student in **Informatics Engineering at UPN Veteran Jakarta** (GPA: 3.90)  
 💡 Focused on modern web development using **React.js**, **Next.js**, **Tailwind CSS**, and **REST API** integration  
 🛠️ Experienced in building both **frontend** and **fullstack** apps, deployed via **Vercel** and **Railway**  
 ✍️ Passionate about **technical writing**, **performance optimization**, and building **responsive, accessible UI**
