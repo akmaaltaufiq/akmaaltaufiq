@@ -67,11 +67,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akmaaltaufiq&show_icons=true&theme=default&hide_border=true" alt="Akmal's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmaaltaufiq&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akmaaltaufiq&theme=github-compact" alt="Akmal's Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=akmaaltaufiq&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akmaaltaufiq&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akmaaltaufiq&theme=flat&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
