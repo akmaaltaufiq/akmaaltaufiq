@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Informatics Student • Fullstack Developer • Content Creator</em><br/>
-  <a href="https://portfolio-akmaaltaufiq.vercel.app" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://akmaaltaufiq.vercel.app" target="_blank">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/akmal-taufiqurrahman-686961285/" target="_blank">🔗 LinkedIn</a> • 
   <a href="mailto:taufikakmal53@gmail.com">✉️ Email</a>
 </p>
